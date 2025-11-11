@@ -14,3 +14,5 @@ b
 c
 
 teste as stash
+
+teste de tags no cmd...
